@@ -1,0 +1,5 @@
+include:
+  - project: resengit/gitlab/pipeline-helpers
+    ref: main
+    file: /pipelines/helm-chart.yaml
+
